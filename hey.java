@@ -7,5 +7,9 @@ public class hey {
 
         System.out.println("Otabek's age = " + age + "\n" + name + middle_name);
         
+        /**
+         * HEY I'M LEAVING COMMENTS TO TEST MY KNOWLEDGE IN GIT&GIT_HUB
+         * 
+         */
     }
 }
